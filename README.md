@@ -21,8 +21,8 @@ I am very interested in coding, and work on many projects of my own. I like Mach
 |Academic Year | Standard | School Name |
 |:-:|:-:|:-:|
 | 2021 - Present | B-Tech (CSE) | IIT Goa|
-| 2020 | Grade XII | Presidium Indirapuram |
-| 2018 | Grade X | Presidium Indirapuram|
+| 2019-2020 | Grade XII | Presidium Indirapuram |
+| 2017-2018 | Grade X | Presidium Indirapuram|
 
 ## Courses @IITGoa
 
@@ -44,6 +44,7 @@ My favourite chess players are
 My favourite Quote from Gary Kasparov:
 > Being too far ahead of your environment can be just as bad as lagging behind your competitors.
 > - Gary Kasparov
+
 
 My another hobby is photo editing.
 I do my photoediting on an open source software known as Krita.
