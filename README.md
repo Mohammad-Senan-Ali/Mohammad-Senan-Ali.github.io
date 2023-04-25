@@ -4,15 +4,23 @@
 
 1. [About Me](#About-Me)
 2. [Education](#Education)
-3. [Courses Taken](#Courses-Taken)
+3. [Courses @IITGoa](#Courses @IITGoa)
 4. [Hobbies and Interests](#Hobbies-and-Interests)
+
 ## About Me
+
 ![Profile Photo](./Senan_Img.jpg)
+
+Hi, my name is Mohammad Senan Ali.
+I am a second year student Computer Science and Engineering at IIT Goa
+
 
 ## Education
 
-## Courses Taken
-	
-
+## Courses @IITGoa
+- **CS102** Software Tools *Clint P. George*
+- **CS212** Computer Networks *Neha Karanjkar*
+- **CS222** Algorithm Design *Rahul CS, Arpita Korwar*
+- **ID601** Numerical Simulation *Mantu Santra, Santosh Kumar Das*
 
 ## Hobbies and Interests
