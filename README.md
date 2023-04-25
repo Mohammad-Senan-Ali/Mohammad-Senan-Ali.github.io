@@ -26,11 +26,11 @@ I am very interested in coding, and work on many projects of my own. I like Mach
 
 ## Courses @IITGoa
 
-- [**CS102** Software Tools *Dr Clint P. George*](https://clintpgeorge.github.io/cs-102/spring-2023/)
-- [**CS212** Computer Networks *Dr Neha Karanjkar*](https://iitgoa.ac.in/)
-- [**CS211** Computer Architecture *Dr Sharad Sinha*](https://iitgoa.ac.in/)
-- [**CS222** Algorithm Design *Dr Rahul CS, Dr Arpita Korwar*](https://iitgoa.ac.in/)
-- [**ID601** Numerical Simulation *Dr Mantu Santra, Dr Santosh Kumar Das*](https://iitgoa.ac.in/)
+- [**CS102** Software Tools, *Dr Clint P. George*](https://clintpgeorge.github.io/cs-102/spring-2023/)
+- [**CS212** Computer Networks, *Dr Neha Karanjkar*](https://iitgoa.ac.in/)
+- [**CS211** Computer Architecture, *Dr Sharad Sinha*](https://iitgoa.ac.in/)
+- [**CS222** Algorithm Design, *Dr Rahul CS, Dr Arpita Korwar*](https://iitgoa.ac.in/)
+- [**ID601** Numerical Simulation, *Dr Mantu Santra, Dr Santosh Kumar Das*](https://iitgoa.ac.in/)
 
 ## Hobbies and Interests
 
